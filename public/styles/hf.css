@@ -1,0 +1,26 @@
+.header, .footer{
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.header a, .footer a{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 3em;
+}
+
+.header{
+    float: right;
+}
+
+.footer{
+    background-color: rgb(53, 53, 65);
+    height: 5em;
+    padding-top: 1.5em;
+}
+
+.footer a{
+    color: rgb(200, 255, 237);
+    margin-left: 5em;
+}

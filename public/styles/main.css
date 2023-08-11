@@ -1,0 +1,19 @@
+@import 'hf.css';
+@import 'body.css';
+@import 'forms.css';
+
+body{
+    margin: 0 5.5em;
+    padding: 0.2em;
+    background-color: rgb(222, 255, 244);
+    color: black;
+}
+
+
+.users_publications{
+    width: 25%;
+    padding: 0.3em;
+    border: 1px solid #999;
+    border-radius: 2em;
+    background-color: rgb(200, 255, 237);
+}

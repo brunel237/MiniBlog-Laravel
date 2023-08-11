@@ -1,0 +1,50 @@
+.loginForm{
+    background-color: rgb(53, 53, 65);
+    width: 50%;
+    height: 25em;
+    margin: 0em 15em;
+    padding: 6em .5em .5em 1.5em;
+    color: rgb(222, 255, 244);
+}
+
+.regisForm{
+    background-color: rgb(53, 53, 65);
+    width: 50%;
+    height: 25em;
+    margin: 0em 15em;
+    padding: 2.5em .5em .5em 1.5em;
+    color: rgb(222, 255, 244);
+}
+
+.loginForm input{
+    border-radius: 2em;
+    margin: 1.2em .5em 1.2em 2em;
+    width: 60%;
+    height: 3em;
+
+    -webkit-border-radius: 2em;
+    -moz-border-radius: 2em;
+    -ms-border-radius: 2em;
+    -o-border-radius: 2em;
+}
+
+.regisForm input{
+    border-radius: 1em;
+    margin: .9em .4em 1.2em 1.5em;
+    width: 60%;
+    height: 2.5em;
+    -webkit-border-radius: 1em;
+    -moz-border-radius: 1em;
+    -ms-border-radius: 1em;
+    -o-border-radius: 1em;
+}
+
+.pubForm{
+    background-color: rgb(53, 53, 65);
+    width: 50%;
+    height: 25em;
+    margin: 0em 15em;
+    padding: 2.5em .5em .5em 1.5em;
+    color: rgb(222, 255, 244);
+}
+
